@@ -1,2 +1,2 @@
-# moviesDjango
+# Movies Django 🎬❤️
 Project Movies - Django
